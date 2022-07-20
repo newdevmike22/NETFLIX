@@ -28,7 +28,7 @@
 
             span {
                 margin-right: 1.25rem;
-                cursor: $curser;
+                cursor: $cursor;
             }
         }
 
@@ -38,7 +38,7 @@
 
             .icon {
                 margin: 0rem 1rem;
-                cursor: $curser;
+                cursor: $cursor;
             }
 
             img {
@@ -46,7 +46,7 @@
                 height: 1.875rem;
                 border-radius: $radius;
                 object-fit: cover;
-                cursor: $curser;
+                cursor: $cursor;
             }
 
             .profile {
@@ -58,7 +58,7 @@
 
                 span {
                     padding: 10px;
-                    cursor: $curser;
+                    cursor: $cursor;
                 }
 
                 &:hover {

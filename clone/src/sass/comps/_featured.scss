@@ -13,7 +13,7 @@
         align-items: center;
 
         select{
-            cursor: $curser;
+            cursor: $cursor;
             background: $main-clr;
             border: 1px solid $clr-white;
             color: $clr-white;
@@ -58,7 +58,7 @@
                 font-size: 18px;
                 font-weight: 500;
                 margin-right: 10px;
-                cursor: $curser;
+                cursor: $cursor;
 
                 &.play {
                     background: $clr-white;
